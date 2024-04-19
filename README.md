@@ -27,5 +27,4 @@
   <img align="center" alt="django-icon" src="https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=white">
   <img align="center" alt="excel-icon" src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white">
   <img align="center" alt="canva-icon" src="https://img.shields.io/badge/Canva-black.svg?&style=for-the-badge&logo=Canva&logoColor=white">
-  <img align="center" alt="figma-icon" src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white">
 </div>
