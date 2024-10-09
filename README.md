@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/glendarangelb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=glendaranglb&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Samuel Elias Rock github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=glendarangelb&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Samuel Elias Rock github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glendarangelb&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 <div align="center">
